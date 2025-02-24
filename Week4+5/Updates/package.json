@@ -1,0 +1,18 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "first-app": "file:",
+    "joi": "^17.13.3"
+  },
+  "description": ""
+}
